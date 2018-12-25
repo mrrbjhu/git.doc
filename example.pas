@@ -14,4 +14,9 @@ begin
   Result := 'Goodbuy fr!';
 end;
 
+function BuyBuy: String;
+begin
+  Result := 'Goodbuy fr!';
+end;
+
 end.
