@@ -11,7 +11,7 @@ end;
 
 function goodBuy: String;
 begin
-  Result := 'Goodbuy!';
+  Result := 'Goodbuy Boyfriend!';
 end;
 
 function helloGirlfriend: String;
