@@ -14,4 +14,8 @@ begin
   Result := 'Goodbuy!';
 end;
 
+function helloGirlfriend: String;
+begin
+  Result := 'Hello, Girlfriend';
+end;
 end.
