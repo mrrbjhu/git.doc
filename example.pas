@@ -9,9 +9,4 @@ begin
   Result := 'Hello!';
 end;
 
-function goodBuy: String;
-begin
-  Result := 'Goodbuy!';
-end;
-
 end.
