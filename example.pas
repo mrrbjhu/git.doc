@@ -14,4 +14,9 @@ begin
   Result := 'Goodbuy!';
 end;
 
+function giveMeYourMoney: String;
+begin
+  Result := 'goni babki!';
+end;
+
 end.
