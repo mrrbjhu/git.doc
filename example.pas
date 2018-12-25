@@ -14,9 +14,5 @@ begin
   Result := 'Goodbuy!';
 end;
 
-function helloBoyfriend: String;
-begin
-  Result := 'Hello, Boyfriend';
-end;
 
 end.
