@@ -9,4 +9,9 @@ begin
   Result := 'Hello World!';
 end;
 
+function goodBuy: String;
+begin
+  Result := 'Goodbuy!';
+end;
+
 end.
