@@ -14,9 +14,9 @@ begin
   Result := 'Goodbuy!';
 end;
 
-function giveMeYourMoney: String;
+function goodBuy: String;
 begin
-  Result := 'goni babki!';
+  Result := 'Goodbuy!';
 end;
 
 end.
