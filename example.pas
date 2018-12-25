@@ -9,7 +9,7 @@ begin
   Result := 'Hello World!';
 end;
 
-function goodBuy: String;
+function Buy: String;
 begin
   Result := 'Goodbuy fr!';
 end;
