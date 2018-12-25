@@ -21,7 +21,7 @@ end;
 
 function goodBuy: String;
 begin
-  Result := 'Goodbuy fr!';
+  Result := 'Good buy fr!';
 end;
 
 end.
