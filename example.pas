@@ -4,9 +4,9 @@ interface
 
 implementation
 
-procedure hello;
+function hello: String;
 begin
-  writeLn('Hello!');
+  Result := 'Hello!';
 end;
 
 end.
