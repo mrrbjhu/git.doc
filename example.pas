@@ -6,7 +6,7 @@ implementation
 
 function hello: String;
 begin
-  Result := 'Hello!';
+  Result := 'Hello World!';
 end;
 
 end.
