@@ -19,4 +19,9 @@ begin
   Result := num1 * num2;
 end;
 
+function Division(num1, num2: Integer): Integer;
+begin
+  Result := num1 div num2;
+end;
+
 end.
