@@ -14,6 +14,11 @@ begin
   Result := num1 + num2;
 end;
 
+function Summa(num1, num2: Integer): Integer;
+begin
+  Result := num1 + num2;
+end;
+
 function Multy(num1, num2: Integer): Integer;
 begin
   Result := num1 * num2;
