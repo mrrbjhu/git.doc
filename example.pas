@@ -9,7 +9,7 @@ begin
   Result := 'Hello World!';
 end;
 
-function Summa(num1, num2: Integer): Integer;
+function Summa(num1, num2: Float): Float;
 begin
   if num1 = 0 then exit(num2);
   if num2 = 0 then exit(num1);
