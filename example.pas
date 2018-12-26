@@ -9,9 +9,4 @@ begin
   Result := 'Hello World!';
 end;
 
-function Summa(num1, num2: Integer): Integer;
-begin
-  Result := num1 + num2;
-end;
-
 end.
