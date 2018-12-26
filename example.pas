@@ -10,7 +10,9 @@ begin
 end;
 
 function Summa(num1, num2: Integer): Integer;
-begin
+begin	
+  if num2 = 0 then exit(num1);
+  if num1 = 0 then exit(num2);
   Result := num1 + num2;
 end;
 
