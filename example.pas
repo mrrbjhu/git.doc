@@ -19,4 +19,9 @@ begin
   Result := num1 * num2;
 end;
 
+function Difference(num1, num2: Integer): Integer;
+begin
+  Result := num1 - num2;
+end;
+
 end.
