@@ -10,8 +10,13 @@ begin
 end;
 
 function Summa(num1, num2: Integer): Integer;
+<<<<<<< HEAD
 
   if num1 = 0 then exit(num2);	222222222222222222
+=======
+begin
+  if num1 = 0 then exit(num2);1111111111
+>>>>>>> dev.sum
   if num2 = 0 then exit(num1);
   Result := num1 + num2;
 end;
