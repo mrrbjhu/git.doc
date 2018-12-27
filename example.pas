@@ -21,7 +21,7 @@ begin
   Result := num1 * num2;
 end;
 
-function Division(num1, num2: Integer; out resultat: Integer): Boolean;
+function Division(num1, num2: Float; out resultat: Float): Boolean;
 begin
   Result := true;
   if num2 = 0 then exit(false);
